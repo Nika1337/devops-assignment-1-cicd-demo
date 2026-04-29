@@ -93,6 +93,12 @@ h1 {
   line-height: 1.8;
 }
 
+.footer-note {
+  margin: 22px 0 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+
 @media (max-width: 700px) {
   .card {
     padding: 24px;
